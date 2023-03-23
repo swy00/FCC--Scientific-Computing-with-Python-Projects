@@ -1,8 +1,6 @@
 # FCC--Scientific-Computing-with-Python-Projects
 FreeCodeCamp Scientific Computing with Python Projects
 
-The projects are these:
-
 ## 1) Arithmetic Formatter
 [Project 1 description](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
